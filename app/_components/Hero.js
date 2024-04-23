@@ -20,7 +20,7 @@ function Hero() {
             <div className="mt-8 flex flex-wrap justify-center gap-4">
               <a
                 className="block w-full rounded border border-blue-600 bg-primary px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:bg-blue-700 focus:outline-none focus:ring active:text-opacity-75 sm:w-auto"
-                href="#"
+                href="/upload"
               >
                 Get Started
               </a>
